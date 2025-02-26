@@ -6,4 +6,4 @@ Feito<br>
 Tarefa em dupla postado no GitHub de cada participante com o link do Github referenciado no Google Classroom.<br>
 Feito <h3>
 
-<p>OBS: fiz em dupla com o <a href = "https://github.com/Brenno030/Brenno030">Miguel da Silva</a></p>
+<p>OBS: fiz em dupla com o <a href = "https://github.com/Miguelito0o">Miguel da Silva</a></p>
